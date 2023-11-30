@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/car-park/static/css/main.e6c13ad2.css",
+    "main.js": "/car-park/static/js/main.6a572a95.js",
+    "static/js/544.d32a2f16.chunk.js": "/car-park/static/js/544.d32a2f16.chunk.js",
+    "static/js/822.8a893b28.chunk.js": "/car-park/static/js/822.8a893b28.chunk.js",
+    "static/js/733.c5f4a80c.chunk.js": "/car-park/static/js/733.c5f4a80c.chunk.js",
+    "index.html": "/car-park/index.html",
+    "main.e6c13ad2.css.map": "/car-park/static/css/main.e6c13ad2.css.map",
+    "main.6a572a95.js.map": "/car-park/static/js/main.6a572a95.js.map",
+    "544.d32a2f16.chunk.js.map": "/car-park/static/js/544.d32a2f16.chunk.js.map",
+    "822.8a893b28.chunk.js.map": "/car-park/static/js/822.8a893b28.chunk.js.map",
+    "733.c5f4a80c.chunk.js.map": "/car-park/static/js/733.c5f4a80c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a572a95.js"
+  ]
+}
